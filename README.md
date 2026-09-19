@@ -371,31 +371,118 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=667EEA&center=true&vCenter=true&width=700&lines=INITIALIZING+GITHUB+DASHBOARD...;LOADING+DEVELOPER+ANALYTICS...;SYNCING+GITHUB+ACTIVITY...;SYSTEM+ONLINE+%E2%9C%93" />
+
+<br>
+
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0%" stop-color="#667EEA"/>
+    <stop offset="50%" stop-color="#764BA2"/>
+    <stop offset="100%" stop-color="#F093FB"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect x="5" y="5" width="890" height="170" rx="22" fill="#ffffff" stroke="#e8e8f5"/>
+
+<text x="35" y="42" font-family="monospace" font-size="18" fill="#667EEA">
+GITHUB SYSTEM
+</text>
+
+<circle cx="850" cy="35" r="6" fill="#667EEA">
+  <animate attributeName="opacity"
+           values="1;0.2;1"
+           dur="1.2s"
+           repeatCount="indefinite"/>
+</circle>
+
+<text x="800" y="60" font-family="monospace" font-size="11" fill="#777">
+ONLINE
+</text>
+
+<path d="M35 125
+      L100 105
+      L165 118
+      L230 80
+      L295 95
+      L360 62
+      L425 90
+      L490 48
+      L555 72
+      L620 38
+      L685 65
+      L750 45
+      L815 55"
+   fill="none"
+   stroke="url(#line)"
+   stroke-width="4"
+   stroke-linecap="round"
+   stroke-dasharray="12 8"
+   filter="url(#glow)">
+
+<animate attributeName="stroke-dashoffset"
+        from="200"
+        to="0"
+        dur="2s"
+        repeatCount="indefinite"/> </path>
+
+<circle cx="620" cy="38" r="6" fill="#764BA2">
+  <animate attributeName="r"
+           values="5;10;5"
+           dur="1.5s"
+           repeatCount="indefinite"/>
+</circle>
+
+<text x="35" y="155" font-family="monospace" font-size="12" fill="#888">
+ACTIVITY MONITOR
+</text>
+
+<text x="700" y="155" font-family="monospace" font-size="12" fill="#888">
+LIVE
+</text>
+
+</svg>
+
+<br>
+
+<table>
+<tr>
+<td>
+
 <img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=20&custom_title=GITHUB+OVERVIEW" height="180"/>
+
+</td>
+
+<td>
 
 <img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" height="180"/>
 
+</td>
+
+<td>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=donut&langs_count=8&hide_border=true&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=20&custom_title=MOST+USED+LANGUAGES" height="180"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trynvexa&theme=default" width="95%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=764BA2&center=true&vCenter=true&width=800&lines=%3E+ANALYZING+COMMITS...;%3E+CHECKING+REPOSITORIES...;%3E+TRACKING+CODING+ACTIVITY...;%3E+SYSTEM+RUNNING...;%3E+KEEP+BUILDING+%F0%9F%9A%80" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trynvexa&theme=default" height="170"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trynvexa&theme=default" height="170"/>
-
-</div>
 
 ## 🎮 BEYOND CODE
 
