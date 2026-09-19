@@ -285,7 +285,15 @@ Bigger Projects
 
 ## 📊 GITHUB STATS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1200&pause=300&color=667EEA&center=true&width=700&lines=MY+CODING+ACTIVITY;%5B+STATISTICS+%5D;%5B+STREAK+%5D;%5B+LANGUAGES+%5D">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=667EEA&center=true&vCenter=true&width=800&lines=%F0%9F%93%8A+GITHUB+ANALYTICS;%F0%9F%94%A5+CODING+ACTIVITY;%F0%9F%92%BB+DEVELOPER+STATISTICS;%E2%9C%A8+BUILDING+EVERY+DAY" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=trynvexa&label=PROFILE+VIEWS&color=667EEA&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/trynvexa?label=FOLLOWERS&style=for-the-badge&color=764BA2" />
+<img src="https://img.shields.io/github/stars/trynvexa?label=STARS&style=for-the-badge&color=F093FB" />
 
 </div>
 
@@ -296,13 +304,17 @@ Bigger Projects
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=false&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=18">
+### 📊 GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=20" width="100%" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=trynvexa&theme=default&hide_border=false&border_radius=18&ring=667EEA&fire=EC4899&currStreakLabel=667EEA">
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" width="100%" />
 
 </td>
 
@@ -313,24 +325,102 @@ Bigger Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=compact&hide_border=false&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=18&langs_count=12" width="60%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=764BA2&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+MY+MOST+USED+LANGUAGES;%E2%9A%A1+CODE+%E2%86%92+BUILD+%E2%86%92+REPEAT;%F0%9F%9A%80+ALWAYS+LEARNING+SOMETHING+NEW" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=donut-vertical&hide_border=true&langs_count=10&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=20" width="45%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=compact&hide_border=true&langs_count=10&bg_color=ffffff&title_color=764BA2&text_color=555555&border_radius=20" width="45%" />
 
 </div>
 
-<br><br>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1300&pause=350&color=764BA2&center=true&width=850&lines=%F0%9F%8E%AE+LIFE+OUTSIDE+THE+CODE">
-
-</div>
+<br>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=667EEA&center=true&vCenter=true&width=300&lines=%F0%9F%92%BB+CODING;%E2%9A%A1+BUILDING;%F0%9F%94%A7+DEBUGGING" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Frontend-Developer-667EEA?style=for-the-badge" />
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=500&color=764BA2&center=true&vCenter=true&width=300&lines=%F0%9F%8E%A8+DESIGNING;%F0%9F%96%A5%EF%B8%8F+CREATING;%E2%9A%99%EF%B8%8F+IMPROVING" />
+
+<br>
+
+<img src="https://img.shields.io/badge/UI%2FUX-Creative-764BA2?style=for-the-badge" />
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&width=300&lines=%F0%9F%9A%80+LEARNING;%F0%9F%93%9A+EXPLORING;%E2%9C%A8+GROWING" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Learning-Everyday-F093FB?style=for-the-badge" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=600&color=667EEA&center=true&vCenter=true&width=750&lines=%E2%9A%A1+WRITE+CODE;%F0%9F%90%9B+FIX+BUGS;%F0%9F%8E%A8+IMPROVE+DESIGN;%F0%9F%9A%80+SHIP+PROJECTS;%E2%9C%A8+REPEAT" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=667EEA&icon_color=F093FB&text_color=555555&border_radius=20&custom_title=%E2%9C%A8%20TRYNVEXA%20%E2%80%94%20DEVELOPER%20ACTIVITY" width="70%" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=667EEA&center=true&vCenter=true&width=450&lines=%3C+CODE+EVERY+DAY+%2F%3E;%3C+KEEP+LEARNING+%2F%3E;%3C+NEVER+STOP+BUILDING+%2F%3E" />
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=600&color=764BA2&center=true&vCenter=true&width=450&lines=%3E+BUILDING+PROJECTS...;%3E+LEARNING+NEW+TECH...;%3E+IMPROVING+SKILLS..." />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=667EEA&center=true&vCenter=true&width=800&lines=%F0%9F%92%99+THANKS+FOR+VISITING+MY+PROFILE;%F0%9F%9A%80+SEE+YOU+IN+THE+NEXT+COMMIT;%E2%9C%A8+KEEP+CODING+%26+KEEP+GROWING" />
+
+</div>
+
 
 ### 🎮 GAMING
 
