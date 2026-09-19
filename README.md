@@ -367,42 +367,6 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 <div align="center">
 
-## 📊 GITHUB DASHBOARD
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1600&pause=400&color=667EEA&center=true&width=700&lines=GitHub+Statistics;Coding+Journey;Projects+%26+Repositories;Keep+Pushing+%F0%9F%9A%80" alt="GitHub Dashboard">
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=false&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=18" width="100%">
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com/?user=trynvexa&theme=default&hide_border=false&border_radius=18&ring=667EEA&fire=EC4899&currStreakLabel=667EEA" width="100%">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=compact&hide_border=false&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=18&langs_count=10" width="55%">
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## 🎮 BEYOND CODE
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1700&pause=400&color=764BA2&center=true&width=800&lines=When+I'm+not+coding...;%F0%9F%8E%AE+I+play+games;%F0%9F%8E%B5+I+listen+to+music;%F0%9F%8F%B8+I+play+badminton;%F0%9F%8C%9F+I+enjoy+learning" alt="Hobbies">
@@ -442,13 +406,13 @@ Entertainment
 
 <td width="33%" align="center">
 
-### 🏸 BADMINTON
+### 🏸 FUTSAL
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="230">
 
 <br><br>
 
-Badminton
+Futsal
 Practice
 Have Fun
 
