@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/developer.png" width="620" alt="Zikri Developer Illustration">
+<img src="assets/profile.png" width="620" alt="Zikri Developer Illustration">
 
 <br>
 
