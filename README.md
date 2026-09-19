@@ -1,107 +1,257 @@
-# 👋 Hi, I'm Zikri
+<!-- ==================== HEADER ==================== -->
 
-### Frontend Developer • Student • Tech Enthusiast
+<div align="center">
 
-Halo! Saya **Zikri**, seorang pelajar SMK Swasta Mandiri yang memiliki ketertarikan pada dunia **web development** dan teknologi.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=ZIKRI%20AL-BUKHORI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-Saat ini saya sedang terus belajar dan mengembangkan kemampuan dalam membangun website yang **modern, responsive, dan nyaman digunakan**. Saya senang mencoba teknologi baru, membuat project, dan belajar dari setiap proses yang saya jalani.
+<br>
 
-> 💡 **Keep learning. Keep building. Keep improving.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Zikri+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Student+%F0%9F%93%9A;Building+Websites+%26+Applications+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG"/>
 
----
+<br><br>
 
-## 🌐 Connect With Me
+<img src="https://komarev.com/ghpvc/?username=trynvexa&label=PROFILE+VIEWS&color=667eea&style=for-the-badge" alt="Profile Views"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-rick__watts7-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/rick_watts7)
-[![TikTok](https://img.shields.io/badge/TikTok-@frince__nael7-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@frince_nael7)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:zikriganteng2023@gmail.com)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### 💻 Languages & Frameworks
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+Halo, saya **Zikri** 👋
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+Saya seorang **Frontend Developer berusia 16 tahun** yang sedang menempuh pendidikan di **SMK Swasta Mandiri**.
 
-### 🎨 UI & Design
+Saya suka belajar dan mengembangkan kemampuan di dunia teknologi, khususnya dalam bidang **web development**.
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge\&logo=framer\&logoColor=white)
+Saya terus belajar, berkarya, membuat project, mencoba teknologi baru, dan mengejar impian untuk menjadi seseorang yang sukses di masa depan. 🚀
+
+<br clear="right"/>
+
+<div align="center">
+
+### ⚡ Learning • Building • Creating • Improving ⚡
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<div align="center">
+
+<a href="https://instagram.com/rick_watts7">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@frince_nael7">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="mailto:zikriganteng2023@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp&theme=light&perline=7"/>
+
+<br><br>
+
+### ⚡ Frameworks & Runtime
+
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,nodejs,tailwind&theme=light&perline=6"/>
+
+<br><br>
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=light&perline=4"/>
 
-### ⚙️ Tools & Platforms
+<br><br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge\&logo=gitea\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+### 🎨 Design
+
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=light&perline=4"/>
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,docker,arduino,powershell&theme=light&perline=7"/>
+
+</div>
+
+<br>
+
+<details>
+<summary>✨ More Technologies</summary>
+
+<br>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-
-### 🎮 Other Technologies
-
+![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge\&logo=gitea\&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge\&logo=framer\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge\&logo=steam\&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge\&logo=epicgames\&logoColor=white)
+![EA](https://img.shields.io/badge/EA-000000?style=for-the-badge\&logo=ea\&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge\&logo=xbox\&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge\&logo=riotgames\&logoColor=white)
+
+</details>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=trynvexa&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=trynvexa&theme=gruvbox_light&hide_border=false" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trynvexa&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=trynvexa&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
 
----
+<img src="https://streak-stats.demolab.com/?user=trynvexa&theme=gruvbox_light&hide_border=false" height="180"/>
 
-## 🚀 What I'm Working On
+<br><br>
 
-* 🌱 Improving my frontend development skills
-* 💻 Building personal and school projects
-* 🎨 Learning modern UI/UX design
-* ⚡ Exploring new web technologies
-* 📚 Continuously learning and improving
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trynvexa&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+
+</div>
 
 ---
 
-## 🎯 My Goal
+# 🏆 GitHub Achievements
 
-> **Build useful things, improve every day, and turn ideas into real projects.**
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=trynvexa&theme=flat&no-frame=false&no-bg=true&margin-w=10&row=2&column=4" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trynvexa&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+# 📈 Contribution Graph
 
-<p align="center">
-  Thanks for visiting my profile! ✨
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trynvexa&bg_color=ffffff&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=false" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/trynvexa/trynvexa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🚀 What I'm Doing
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+
+💻<br> <b>Building</b><br>
+Web Projects
+
+</td>
+
+<td align="center" width="180">
+
+📚<br> <b>Learning</b><br>
+New Technologies
+
+</td>
+
+<td align="center" width="180">
+
+🎨<br> <b>Designing</b><br>
+Modern Interfaces
+
+</td>
+
+<td align="center" width="180">
+
+🚀<br> <b>Improving</b><br>
+Every Day
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ Developer Zone
+
+<div align="center">
+
+<img src="https://github-readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=764BA2&center=true&vCenter=true&width=650&lines=while+(alive)+%7B;++++keep_learning()%3B;++++keep_building()%3B;++++keep_improving()%3B;%7D" alt="Developer Animation"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=667EEA&center=true&vCenter=true&width=700&lines=%22Keep+learning.+Keep+building.+Keep+growing.%22;%22Every+project+is+a+new+lesson.%22;%22Small+progress+is+still+progress.%22" alt="Mindset Animation"/>
+
+</div>
+
+---
+
+# 🌟 Thanks For Visiting
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+### ✨ Thanks for visiting my profile!
+
+**⭐ Explore my repositories • 💻 Check out my projects • 🚀 Let's build something**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=trynvexa&label=PROFILE+VIEWS&color=764ba2&style=for-the-badge"/>
+
+</div>
+
+<!-- Proudly created with GPRM -->
+
+<!-- Profile: trynvexa -->
