@@ -371,7 +371,7 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=667EEA&center=true&vCenter=true&width=700&lines=INITIALIZING+GITHUB+DASHBOARD...;LOADING+DEVELOPER+ANALYTICS...;SYNCING+GITHUB+ACTIVITY...;SYSTEM+ONLINE+%E2%9C%93" />
+
 
 <br>
 
