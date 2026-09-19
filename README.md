@@ -464,9 +464,7 @@ LIVE
 </td>
 
 <td>
-
-<img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" height="180"/>
-
+  
 </td>
 
 <td>
