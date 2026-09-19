@@ -464,7 +464,9 @@ LIVE
 </td>
 
 <td>
-  
+
+<img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" height="180"/>
+
 </td>
 
 <td>
@@ -480,6 +482,7 @@ LIVE
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=764BA2&center=true&vCenter=true&width=800&lines=%3E+ANALYZING+COMMITS...;%3E+CHECKING+REPOSITORIES...;%3E+TRACKING+CODING+ACTIVITY...;%3E+SYSTEM+RUNNING...;%3E+KEEP+BUILDING+%F0%9F%9A%80" />
 
 </div>
+
 
 
 ## 🎮 BEYOND CODE
