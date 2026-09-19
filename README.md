@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=700&color=667EEA&center=true&vCenter=true&width=900&lines=ZIKRI+%E2%80%94+FRONTEND+DEVELOPER;CODE+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE;WELCOME+TO+MY+GITHUB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Zikri+%F0%9F%91%8B;Frontend+Developer+%7C+Student+%7C+Creator;Building+Modern+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=764BA2&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+SMK+Student;Building+Modern+Websites;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=764BA2&center=true&vCenter=true&width=700&lines=Code+%E2%86%92+Create+%E2%86%92+Learn+%E2%86%92+Improve;Always+Learning+Something+New+%F0%9F%93%9A;Turning+Ideas+Into+Real+Projects+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br><br>
 
@@ -14,14 +14,15 @@
 
 </div>
 
-<br>
+---
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="60%" valign="middle">
-
-## 👨‍💻 About Me
+### 👋 Hello, I'm Zikri
 
 Halo, saya **Zikri** 👋
 
@@ -33,47 +34,33 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=500&color=667EEA&width=600&lines=%3E+Learning+Frontend;%3E+Building+Websites;%3E+Creating+Projects;%3E+Improving+Every+Day..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2300&pause=700&color=667EEA&width=600&lines=Frontend+Development+%F0%9F%92%BB;Modern+UI%2FUX+%F0%9F%8E%A8;Web+Animation+%E2%9C%A8;Learning+Every+Day+%F0%9F%93%9A" />
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,bootstrap,php,laravel,nodejs&theme=light&perline=4" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=764BA2&center=true&vCenter=true&width=300&lines=%3C+CODE+%2F%3E;%3C+CREATE+%2F%3E;%3C+IMPROVE+%2F%3E" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,figma,git,github,vercel,vscode,python,cpp,arduino&theme=light&perline=4" />
 
 </td>
-
 </tr>
 </table>
 
-<br>
-
-<div align="center">
+---
 
 ## ⚡ DEVELOPER STATUS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&color=667EEA&center=true&vCenter=true&width=750&lines=ONLINE+%E2%9A%A1;READY+TO+BUILD+%F0%9F%9A%80;LEARNING+MODE+%F0%9F%A7%A0;DEVELOPER+MODE+ACTIVATED+%F0%9F%92%BB" />
-
-</div>
-
-<br>
-
 <table>
 <tr>
-
 <td width="33%" align="center">
 
 ### 💻 ROLE
 
-<img src="https://img.shields.io/badge/Frontend-Developer-667EEA?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=500&color=667EEA&center=true&vCenter=true&width=260&lines=Web+Developer;Frontend+Focused;Student+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=667EEA&center=true&vCenter=true&width=280&lines=Frontend+Developer;Web+Developer;Student;Creator" />
 
 </td>
 
@@ -81,11 +68,7 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🚀 FOCUS
 
-<img src="https://img.shields.io/badge/Web-Development-764BA2?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=500&color=764BA2&center=true&vCenter=true&width=260&lines=Modern+UI;Responsive+Web;Interactive+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=764BA2&center=true&vCenter=true&width=280&lines=Modern+Web;Responsive+UI;Animation;Clean+Code" />
 
 </td>
 
@@ -93,22 +76,17 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🧠 MINDSET
 
-<img src="https://img.shields.io/badge/Always-Learning-F093FB?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=500&color=F093FB&center=true&vCenter=true&width=260&lines=Learn;Build;Improve;Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=F093FB&center=true&vCenter=true&width=280&lines=Keep+Learning;Keep+Building;Keep+Improving;Never+Stop" />
 
 </td>
-
 </tr>
 </table>
 
-<br>
-
-<div align="center">
+---
 
 ## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://instagram.com/rick_watts7">
 <img src="https://img.shields.io/badge/Instagram-rick__watts7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -122,104 +100,118 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1700&pause=500&color=667EEA&center=true&vCenter=true&width=650&lines=LET'S+CONNECT+%F0%9F%91%8B;LET'S+BUILD+SOMETHING+COOL+%F0%9F%9A%80;WELCOME+TO+MY+PROFILE+%E2%9C%A8" />
+<a href="https://github.com/trynvexa">
+<img src="https://img.shields.io/badge/GitHub-trynvexa-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<br><br>
-
-<div align="center">
+---
 
 ## 🛠️ TECH STACK
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=500&color=764BA2&center=true&vCenter=true&width=750&lines=THE+TOOLS+BEHIND+MY+PROJECTS;%F0%9F%92%BB+CODE;%F0%9F%8E%A8+DESIGN;%E2%9A%99%EF%B8%8F+BUILD;%F0%9F%9A%80+DEPLOY" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=667EEA&center=true&vCenter=true&width=650&lines=Technologies+I+Use+%F0%9F%9A%80;Tools+I+Learn+%F0%9F%92%BB;Building+With+Code+%E2%9A%A1" />
 
 </div>
-
-<br>
 
 ### 🔤 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,powershell&theme=light&perline=8" />
-</p>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-</div>
-
-<br>
-
-### ⚛️ Frameworks & Libraries
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,nodejs,laravel&theme=light&perline=7" />
-</p>
-
-<br>
-
-### 🗄️ Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,apache,mysql,mariadb,mongodb,sqlite,supabase&theme=light&perline=9" />
-</p>
-
-<br>
-
-### 🎨 Design & Creative
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,canva,framer&theme=light&perline=3" />
-</p>
-
-<br>
-
-### ☁️ Tools, Deployment & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitea,vercel,digitalocean,vscode&theme=light&perline=6" />
-</p>
-
-<br>
-
-### 🎮 Gaming & Hardware
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=godot,steam,nvidia,xbox,arduino&theme=light&perline=5" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,powershell&theme=light&perline=8" />
 
 <br><br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=600&color=667EEA&center=true&vCenter=true&width=850&lines=%F0%9F%92%BB+CODING+MODE;%E2%9A%A1+WRITE+CODE;%F0%9F%90%9B+FIND+BUGS;%F0%9F%94%A7+FIX+BUGS;%F0%9F%9A%80+BUILD+PROJECTS" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 </div>
 
-<br>
+### ⚛️ Frameworks & Libraries
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,nodejs,laravel&theme=light&perline=7" />
+
+</div>
+
+### 🗄️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mariadb,mongodb,sqlite,supabase,apache&theme=light&perline=9" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+</div>
+
+### 🎨 Design & Creative
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=light&perline=1" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+</div>
+
+### ☁️ Tools, Deployment & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitea,vercel,digitalocean,vscode&theme=light&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" />
+
+</div>
+
+### 🎮 Gaming & Hardware
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=godot,arduino&theme=light&perline=2" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/EA-000000?style=for-the-badge&logo=ea&logoColor=white" />
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" />
+
+</div>
+
+---
+
+## 💻 CODING MODE
 
 <table>
 <tr>
-
 <td width="33%" align="center">
 
 ### 👨‍💻 CODE
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=light&perline=4" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=667EEA&center=true&vCenter=true&width=280&lines=Write+Clean+Code;Build+Components;Create+Interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=667EEA&center=true&vCenter=true&width=300&lines=Write+Code;Build+Components;Create+Interfaces;Make+Ideas+Real" />
 
 </td>
 
@@ -227,11 +219,7 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🐛 DEBUG
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light&perline=3" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=764BA2&center=true&vCenter=true&width=280&lines=Find+Problems;Fix+Bugs;Test+Again" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=764BA2&center=true&vCenter=true&width=300&lines=Find+Bugs;Read+Errors;Fix+Problems;Try+Again" />
 
 </td>
 
@@ -239,43 +227,27 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🚀 BUILD
 
-<img src="https://skillicons.dev/icons?i=vercel,github,laravel&theme=light&perline=3" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=F093FB&center=true&vCenter=true&width=280&lines=Build+Projects;Deploy;Keep+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=F093FB&center=true&vCenter=true&width=300&lines=Build+Projects;Improve+UI;Deploy;Repeat" />
 
 </td>
-
 </tr>
 </table>
 
-<br><br>
-
-<div align="center">
+---
 
 ## 📚 CURRENTLY LEARNING
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=500&color=667EEA&center=true&vCenter=true&width=750&lines=LEARNING+NEW+THINGS+EVERY+DAY;%F0%9F%93%9A+EXPLORE+%E2%86%92+PRACTICE+%E2%86%92+BUILD;%F0%9F%9A%80+LEVEL+UP+MY+SKILLS" />
-
-</div>
-
-<br>
-
 <table>
 <tr>
-
 <td width="33%" align="center">
 
 ### 📖 LEARNING
 
-<img src="https://skillicons.dev/icons?i=vue,js,ts&theme=light&perline=3" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 
-<br><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-`Vue.js`
-`JavaScript`
-`TypeScript`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </td>
 
@@ -283,13 +255,7 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🎯 FOCUS
 
-<img src="https://img.shields.io/badge/UI-Responsive-667EEA?style=for-the-badge" />
-
-<br><br>
-
-`Responsive UI`
-`Modern Design`
-`Animation`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=500&color=667EEA&center=true&vCenter=true&width=280&lines=Responsive+UI;Modern+Design;Animation;Better+UX" />
 
 </td>
 
@@ -297,24 +263,25 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🚀 GOALS
 
-<img src="https://img.shields.io/badge/GO-BIGGER-F093FB?style=for-the-badge" />
-
-<br><br>
-
-`Build Bigger Projects`
-`Improve Coding Skills`
-`Become Professional`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=500&color=764BA2&center=true&vCenter=true&width=280&lines=Build+Bigger+Projects;Improve+Coding+Skills;Become+Professional;Keep+Growing" />
 
 </td>
-
 </tr>
 </table>
 
-<br><br>
+---
+
+# 📊 GITHUB DASHBOARD
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=2200&pause=700&color=667EEA&center=true&vCenter=true&width=900&lines=%F0%9F%93%8A+GITHUB+DASHBOARD;%F0%9F%94%A5+CODING+STREAK;%F0%9F%92%BB+DEVELOPER+STATISTICS;%E2%9C%A8+MY+GITHUB+ACTIVITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=700&color=667EEA&center=true&vCenter=true&width=750&lines=My+GitHub+Activity+%F0%9F%93%8A;Code+%7C+Commit+%7C+Build+%7C+Repeat;Growing+One+Commit+At+A+Time+%E2%9C%A8" />
+
+<br>
+
+<img src="https://img.shields.io/github/followers/trynvexa?style=for-the-badge&label=FOLLOWERS&color=667EEA" />
+<img src="https://img.shields.io/github/repos/trynvexa?style=for-the-badge&label=REPOSITORIES&color=764BA2" />
+<img src="https://img.shields.io/github/last-commit/trynvexa/trynvexa.github.io?style=for-the-badge&label=LAST%20COMMIT&color=F093FB" />
 
 </div>
 
@@ -323,15 +290,27 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=20&custom_title=ZIKRI%20%E2%80%94%20GITHUB%20OVERVIEW" width="100%" />
+### 📈 OVERVIEW
+
+<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=20&custom_title=GITHUB+OVERVIEW" />
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" width="100%" />
+### 🔥 STREAK
+
+<img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 LANGUAGES
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=donut&langs_count=8&hide_border=true&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=20&custom_title=MOST+USED+LANGUAGES" />
 
 </td>
 
@@ -342,25 +321,17 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&color=764BA2&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+MOST+USED+LANGUAGES;%E2%9A%A1+CODE+%E2%86%92+BUILD+%E2%86%92+REPEAT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1700&pause=500&color=667EEA&center=true&vCenter=true&width=800&lines=%24+git+add+.;%24+git+commit+-m+%22keep+building%22;%24+git+push+origin+main;%24+continue+learning..." />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=donut&langs_count=10&hide_border=true&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=20" width="50%" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,vue,js,ts,react,nextjs,laravel&theme=light&perline=9" />
 
 </div>
 
-<br><br>
-
-<div align="center">
+---
 
 ## 🎮 BEYOND CODE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1900&pause=500&color=667EEA&center=true&vCenter=true&width=750&lines=WHEN+I'M+NOT+CODING...;%F0%9F%8E%AE+I+PLAY;%F0%9F%8E%B5+I+LISTEN;%F0%9F%8F%B8+I+PLAY+BADMINTON" />
-
-</div>
-
-<br>
 
 <table>
 <tr>
@@ -369,17 +340,7 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ### 🎮 GAMING
 
-<img src="https://skillicons.dev/icons?i=godot,steam&theme=light&perline=2" />
-
-<br><br>
-
-Mobile Legends
-PC Games
-Game Development
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=667EEA&center=true&vCenter=true&width=250&lines=PLAY;EXPLORE;HAVE+FUN" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=600&color=667EEA&center=true&vCenter=true&width=280&lines=Mobile+Legends;PC+Games;Game+Development;Have+Fun+%F0%9F%8E%AE" />
 
 </td>
 
@@ -387,17 +348,7 @@ Game Development
 
 ### 🎵 MUSIC
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%B5-MUSIC-F093FB?style=for-the-badge" />
-
-<br><br>
-
-Music
-K-Pop
-Entertainment
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=764BA2&center=true&vCenter=true&width=250&lines=LISTEN;RELAX;REPEAT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=600&color=764BA2&center=true&vCenter=true&width=280&lines=Music;K-Pop;Entertainment;Enjoy+The+Moment+%F0%9F%8E%B5" />
 
 </td>
 
@@ -405,85 +356,37 @@ Entertainment
 
 ### 🏸 BADMINTON
 
-<img src="https://img.shields.io/badge/%F0%9F%8F%B8-BADMINTON-667EEA?style=for-the-badge" />
-
-<br><br>
-
-Badminton
-Practice
-Have Fun
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=F093FB&center=true&vCenter=true&width=250&lines=PLAY;PRACTICE;IMPROVE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=600&color=F093FB&center=true&vCenter=true&width=280&lines=Badminton;Practice;Improve;Have+Fun+%F0%9F%8F%B8" />
 
 </td>
 
 </tr>
 </table>
 
-<br><br>
-
-<div align="center">
+---
 
 ## 🧠 MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=600&color=764BA2&center=true&vCenter=true&width=850&lines=LEARN+FROM+EVERY+BUG;%F0%9F%9A%80+BUILD+WITH+PASSION;%E2%9C%A8+IMPROVE+EVERY+DAY;%F0%9F%92%BB+NEVER+STOP+LEARNING" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,laravel,git,github&theme=light&perline=9" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=667EEA&center=true&vCenter=true&width=750&lines=%22Keep+learning.+Keep+building.%22;%22Small+progress+is+still+progress.%22;%22Code+%E2%86%92+Create+%E2%86%92+Improve.%22" />
-
-</div>
-
-<br><br>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,git,github&theme=light&perline=5" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1900&pause=600&color=667EEA&center=true&vCenter=true&width=550&lines=%3E+KEEP+CODING;%3E+KEEP+LEARNING;%3E+KEEP+CREATING;%3E+KEEP+MOVING+FORWARD;%3E+SEE+YOU+IN+THE+NEXT+COMMIT!" />
-
-<br><br>
-
-<a href="https://instagram.com/rick_watts7">
-<img src="https://img.shields.io/badge/Instagram-rick__watts7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://tiktok.com/@frince_nael7">
-<img src="https://img.shields.io/badge/TikTok-@frince__nael7-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="mailto:zikriganteng2023@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=700&color=667EEA&center=true&vCenter=true&width=850&lines=THANKS+FOR+VISITING+MY+PROFILE+%F0%9F%91%8B;SEE+YOU+IN+THE+NEXT+PROJECT+%F0%9F%9A%80;KEEP+CODING+%26+KEEP+GROWING+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Build+%E2%86%92+Fail+%E2%86%92+Fix+%E2%86%92+Improve;Don't+Just+Dream+It%2C+Build+It+%F0%9F%9A%80;Small+Progress+Is+Still+Progress+%E2%9C%A8;Keep+Learning.+Keep+Building.+Keep+Growing." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F_%26_Code-667EEA?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,laravel,git,github,vscode&theme=light&perline=10" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2100&pause=700&color=764BA2&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;See+you+in+the+next+commit+%F0%9F%92%BB;Let's+build+something+awesome+%F0%9F%9A%80" />
+
+<br><br>
+
+<a href="https://github.com/trynvexa">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-667EEA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:zikriganteng2023@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-764BA2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
