@@ -369,39 +369,33 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 ## 📊 GITHUB DASHBOARD
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1600&pause=400&color=667EEA&center=true&width=700&lines=GitHub+Statistics;Coding+Journey;Projects+%26+Repositories;Keep+Pushing+%F0%9F%9A%80" alt="GitHub Dashboard">
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=false&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=18" width="100%">
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com/?user=trynvexa&theme=default&hide_border=false&border_radius=18&ring=667EEA&fire=EC4899&currStreakLabel=667EEA" width="100%">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=compact&hide_border=false&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=18&langs_count=10" width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=trynvexa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=667EEA&icon_color=764BA2&text_color=555555&border_radius=20&custom_title=GITHUB+OVERVIEW" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=trynvexa&hide_border=true&background=ffffff&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=555555&dates=888888&border_radius=20" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trynvexa&layout=donut&langs_count=8&hide_border=true&bg_color=ffffff&title_color=667EEA&text_color=555555&border_radius=20&custom_title=MOST+USED+LANGUAGES" height="180"/>
 
 </div>
 
 <br>
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trynvexa&theme=default" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trynvexa&theme=default" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trynvexa&theme=default" height="170"/>
+
+</div>
 
 ## 🎮 BEYOND CODE
 
