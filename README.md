@@ -22,19 +22,22 @@
 <tr>
 <td width="55%" valign="top">
 
-## 👨‍💻 About Me
+<td width="55%" valign="top">
 
-Halo, saya **Zikri** 👋
+<div align="center">
 
-Saya seorang **Frontend Developer berusia 16 tahun** yang sedang menempuh pendidikan di **SMK Swasta Mandiri**.
+```text
+███╗   ██╗ █████╗ ███████╗██╗
+████╗  ██║██╔══██╗██╔════╝██║
+██╔██╗ ██║███████║█████╗  ██║
+██║╚██╗██║██╔══██║██╔══╝  ██║
+██║ ╚████║██║  ██║███████╗██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝
+```
 
-Saya suka belajar dan mengembangkan kemampuan di dunia teknologi, khususnya dalam bidang **web development**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=667EEA&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Student+%7C+Builder+%7C+Learner;Web+Development+Enthusiast;I+Love+Building+Projects+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+%E2%9C%A8" alt="NAEL Animation">
 
-Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi orang yang sukses di masa depan.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=667EEA&width=500&lines=I+love+building+websites+%F0%9F%92%BB;I+love+learning+new+things+%F0%9F%93%9A;I+love+creating+projects+%F0%9F%9A%80;Keep+learning.+Keep+building.+%E2%9C%A8" alt="About Animation">
+</div>
 
 </td>
 
@@ -44,15 +47,8 @@ Saya terus belajar, berkarya, membuat project, dan mengejar impian untuk menjadi
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=500&color=764BA2&center=true&width=400&lines=%3C+CODE%3E;%3C+BUILD%3E;%3C+DEBUG%3E;%3C+LEARN%3E;%3C+REPEAT%3E" alt="Code Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=500&color=764BA2&center=true&width=400&lines=%3C+CODE%3E;%3C+BUILD%3E;%3C+DEBUG%3E;%3C+LEARN%3E;%3C+REPEAT%
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
 
 ## ⚡ DEVELOPER STATUS
 
